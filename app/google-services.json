@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "608637027200",
+    "firebase_url": "https://medicinereminderqrcode-default-rtdb.firebaseio.com",
+    "project_id": "medicinereminderqrcode",
+    "storage_bucket": "medicinereminderqrcode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608637027200:android:a46d179075b666b3743765",
+        "android_client_info": {
+          "package_name": "com.example.medicinereminderqrcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608637027200-rc4pnri3pm1bdhv98dm0s0egrgveer4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcryh41lgthf6ey4e2kyNIq3--jYH9eBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608637027200-rc4pnri3pm1bdhv98dm0s0egrgveer4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
